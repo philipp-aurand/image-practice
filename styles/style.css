@@ -2,9 +2,11 @@
    font-family: Nadia;
    src: url(fonts/AlexBrush-Regular-copy.ttf);    
 }
+
 body {
-    background-color: orange;
+    background-color: silver;
 }
+
 h4 {
     font-style: italic;
 }
