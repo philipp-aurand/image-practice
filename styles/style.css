@@ -1,12 +1,12 @@
 @font-face {
    font-family: Nadia;
-   src: url(fonts/AlexBrush-Regular-copy.ttf);    
+   src: url(../fonts/AlexBrush-Regular-copy.ttf);    
+}
+h2 {
+    font-family: Nadia;
 }
 
 body {
     background-color: orange;
 }
 
-h2 {
-    font-style: italic;
-}
